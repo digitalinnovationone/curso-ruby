@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "nome": "Fazenda Frutífera",
+    "cnpj": "12.345.678/0001-01"
+  },
+  {
+    "id": 102,
+    "nome": "Tropical Exportações",
+    "cnpj": "98.765.432/0001-02"
+  },
+  {
+    "id": 103,
+    "nome": "Fazenda Morango Delícia",
+    "cnpj": "45.678.901/0001-03"
+  },
+  {
+    "id": 104,
+    "nome": "Plantation Abacaxi",
+    "cnpj": "23.456.789/0001-04"
+  },
+  {
+    "id": 105,
+    "nome": "Pêssegos do Vale",
+    "cnpj": "67.890.123/0001-05"
+  },
+  {
+    "id": 106,
+    "nome": "Vinícola Uva Fina",
+    "cnpj": "34.567.890/0001-06"
+  },
+  {
+    "id": 107,
+    "nome": "Citrus da Califórnia",
+    "cnpj": "89.012.345/0001-07"
+  },
+  {
+    "id": 108,
+    "nome": "Kiwi Exótico Ltda.",
+    "cnpj": "56.789.012/0001-08"
+  },
+  {
+    "id": 109,
+    "nome": "Mangas Tropicais S.A.",
+    "cnpj": "12.345.678/0001-09"
+  },
+  {
+    "id": 110,
+    "nome": "Melancias do Sul",
+    "cnpj": "98.765.432/0001-10"
+  },
+  {
+    "id": 111,
+    "nome": "Montanha das Cerejas",
+    "cnpj": "45.678.901/0001-11"
+  },
+  {
+    "id": 112,
+    "nome": "Limões da Sicília",
+    "cnpj": "23.456.789/0001-12"
+  },
+  {
+    "id": 113,
+    "nome": "Pera Rocha Export",
+    "cnpj": "67.890.123/0001-13"
+  },
+  {
+    "id": 114,
+    "nome": "Amoras Silvestres Ltda.",
+    "cnpj": "34.567.890/0001-14"
+  },
+  {
+    "id": 115,
+    "nome": "Caju Tropical Exportações",
+    "cnpj": "89.012.345/0001-15"
+  },
+  {
+    "id": 116,
+    "nome": "Ananás dos Açores Lda.",
+    "cnpj": "56.789.012/0001-16"
+  },
+  {
+    "id": 117,
+    "nome": "Coco Tropical Ltda.",
+    "cnpj": "12.345.678/0001-17"
+  },
+  {
+    "id": 118,
+    "nome": "Nectarina Branca S.A.",
+    "cnpj": "98.765.432/0001-18"
+  },
+  {
+    "id": 119,
+    "nome": "Clementina do Norte",
+    "cnpj": "45.678.901/0001-19"
+  },
+  {
+    "id": 120,
+    "nome": "Umbu do Nordeste Exportações",
+    "cnpj": "23.456.789/0001-20"
+  }
+]

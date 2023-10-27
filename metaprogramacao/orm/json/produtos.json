@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "nome": "Maçã Gala",
+    "descricao": "Maçãs frescas e suculentas da variedade Gala.",
+    "preco": 2.99,
+    "estoque": 150,
+    "fornecedor_id": 101
+  },
+  {
+    "id": 2,
+    "nome": "Banana Dourada",
+    "descricao": "Bananas maduras e doces de alta qualidade.",
+    "preco": 1.49,
+    "estoque": 200,
+    "fornecedor_id": 102
+  },
+  {
+    "id": 3,
+    "nome": "Morango Fresco",
+    "descricao": "Morangos vermelhos e suculentos colhidos no auge da temporada.",
+    "preco": 3.49,
+    "estoque": 100,
+    "fornecedor_id": 103
+  },
+  {
+    "id": 4,
+    "nome": "Abacaxi Tropical",
+    "descricao": "Abacaxis tropicais, perfeitos para sucos e sobremesas.",
+    "preco": 4.99,
+    "estoque": 80,
+    "fornecedor_id": 104
+  },
+  {
+    "id": 5,
+    "nome": "Pêssegos Suculentos",
+    "descricao": "Pêssegos frescos e suculentos, ideais para lanches saudáveis.",
+    "preco": 2.79,
+    "estoque": 120,
+    "fornecedor_id": 105
+  },
+  {
+    "id": 6,
+    "nome": "Uvas Viníferas",
+    "descricao": "Uvas vermelhas e verdes perfeitamente maduras para degustação.",
+    "preco": 5.99,
+    "estoque": 90,
+    "fornecedor_id": 106
+  },
+  {
+    "id": 7,
+    "nome": "Laranjas da Califórnia",
+    "descricao": "Laranjas suculentas da ensolarada Califórnia.",
+    "preco": 2.49,
+    "estoque": 180,
+    "fornecedor_id": 107
+  },
+  {
+    "id": 8,
+    "nome": "Kiwi Exótico",
+    "descricao": "Kiwi fresco e exótico, rico em vitamina C.",
+    "preco": 2.89,
+    "estoque": 150,
+    "fornecedor_id": 108
+  },
+  {
+    "id": 9,
+    "nome": "Manga Tropicana",
+    "descricao": "Mangas tropicais suculentas e doces.",
+    "preco": 3.99,
+    "estoque": 70,
+    "fornecedor_id": 109
+  },
+  {
+    "id": 10,
+    "nome": "Melancia Refrescante",
+    "descricao": "Melancias doces e refrescantes para o verão.",
+    "preco": 4.49,
+    "estoque": 60,
+    "fornecedor_id": 110
+  },
+  {
+    "id": 11,
+    "nome": "Cerejas da Montanha",
+    "descricao": "Cerejas frescas e saborosas colhidas nas montanhas.",
+    "preco": 6.99,
+    "estoque": 50,
+    "fornecedor_id": 111
+  },
+  {
+    "id": 12,
+    "nome": "Limões Sicilianos",
+    "descricao": "Limões suculentos da Sicília, ideais para fazer limonada.",
+    "preco": 1.79,
+    "estoque": 120,
+    "fornecedor_id": 112
+  },
+  {
+    "id": 13,
+    "nome": "Pera Rocha",
+    "descricao": "Peras rochas maduras e crocantes.",
+    "preco": 2.69,
+    "estoque": 100,
+    "fornecedor_id": 113
+  },
+  {
+    "id": 14,
+    "nome": "Amoras Silvestres",
+    "descricao": "Amoras frescas e silvestres colhidas à mão.",
+    "preco": 4.29,
+    "estoque": 80,
+    "fornecedor_id": 114
+  },
+  {
+    "id": 15,
+    "nome": "Caju Tropical",
+    "descricao": "Cajus tropicais, perfeitos para snacks e sucos.",
+    "preco": 3.49,
+    "estoque": 90,
+    "fornecedor_id": 115
+  },
+  {
+    "id": 16,
+    "nome": "Ananás dos Açores",
+    "descricao": "Ananases frescos e suculentos dos Açores, Portugal.",
+    "preco": 5.99,
+    "estoque": 70,
+    "fornecedor_id": 116
+  },
+  {
+    "id": 17,
+    "nome": "Coco Exótico",
+    "descricao": "Cocos frescos e exóticos, ideais para coquetéis tropicais.",
+    "preco": 3.99,
+    "estoque": 80,
+    "fornecedor_id": 117
+  },
+  {
+    "id": 18,
+    "nome": "Nectarina Branca",
+    "descricao": "Nectarinas brancas doces e suculentas.",
+    "preco": 2.79,
+    "estoque": 120,
+    "fornecedor_id": 118
+  },
+  {
+    "id": 19,
+    "nome": "Tangerina Clementina",
+    "descricao": "Tangerinas clementinas frescas e fáceis de descascar.",
+    "preco": 2.29,
+    "estoque": 150,
+    "fornecedor_id": 119
+  },
+  {
+    "id": 20,
+    "nome": "Umbu do Nordeste",
+    "descricao": "Umbus frescos do Nordeste do Brasil, com sabor único.",
+    "preco": 4.79,
+    "estoque": 40,
+    "fornecedor_id": 120
+  }
+]
+  
