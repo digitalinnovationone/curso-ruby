@@ -1,42 +1,61 @@
 module Atributos
-    def self.included(base)
-        puts "Foi incluido na classe - #{base}"
-    end
+	def self.included(base)
 
-    attr_accessor :id, :nome, :documento
+		base.class_eval do
+			def xxx
+				puts "sssss"
+			end
+		end
 
-    def mostrar_dados
-        puts "#{id} - #{nome} - #{documento}"
-    end
+		base.instance_eval do
+			def xxx_de_classe
+				puts "sssss"
+			end
+		end
+
+		puts "Foi incluido na classe - #{base}"
+	end
+
+	attr_accessor :id, :nome, :documento
+
+	def mostrar_dados
+		puts "#{id} - #{nome} - #{documento}"
+	end
 end
 
 module MetodosDeClasse
-    def todos
-        puts "Retornaria todos os dados do banco de dados"
-    end
+	def metodo_total
+		puts "Oiiiii ... "
+	end
 end
 
-class PessoaFisica
-    include Atributos
-    extend MetodosDeClasse
+class Cliente
+	include Atributos
+	extend MetodosDeClasse
 end
 
-class PessoaJuridica
-    include Atributos
-    extend MetodosDeClasse
+class Fornecedor
+	include Atributos
+	extend MetodosDeClasse
 end
 
-pf = PessoaFisica.new
-pj = PessoaJuridica.new
+c = Cliente.new
+f = Fornecedor.new
+# c.id = 1
+# c.nome = "Danilo"
+# c.documento = "12222"
 
-puts "---------[Fisica]------"
-puts pf.methods - Class.methods
-puts "---------[Jurifica]------"
-puts pj.methods - Class.methods
+# c.mostrar_dados
+puts "===== instancia cliente ====="
+puts c.methods - Class.methods
+puts "===== instancia fornecedor ====="
+puts f.methods - Class.methods
 
-puts "---------[Fisica metodos de classe]------"
-puts PessoaFisica.methods - Class.methods
-puts "---------[Jurifica metodos de classe]------"
-puts PessoaJuridica.methods - Class.methods
+puts "===== classe cliente ====="
+puts Cliente.methods - Class.methods
+puts "===== classe fornecedor ====="
+puts Fornecedor.methods - Class.methods
 
-  
+
+# Cliente.metodo_total
+
